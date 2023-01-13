@@ -1,7 +1,7 @@
 # 👣 New Balance
 
-## Project Title
-IoT Healthcare : IoT Device and Platform for Gait Correction
+## Project Title : IoT Device and Platform for Gait Correction
+
 
 ## Group Members
 - Jihyeon Yun (Chungnam National University)
