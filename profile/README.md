@@ -9,6 +9,7 @@
 - Minju Kim (Soongsil University)
 - Hyejin Kim (Chungnam National University)
 - Suyoung Lee (Chungnam National University)
+- Nicole Hornbrook (Purdue University)
 
 ## Research Problem
 
