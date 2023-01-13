@@ -1,4 +1,4 @@
-# New Balance
+# 👣 New Balance
 
 ## Project Title
 IoT Healthcare : IoT Device and Platform for Gait Correction
