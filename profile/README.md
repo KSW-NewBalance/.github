@@ -1,12 +1,19 @@
-## Hi there 👋
+# New Balance
 
-<!--
+## Project Title
+IoT Healthcare : IoT Device and Platform for Gait Correction
 
-**Here are some ideas to get you started:**
+## Group Members
+- Jihyeon Yun (Chungnam National University)
+- Hojeong Eom (Chungnam National University)
+- Minju Kim (Soongsil University)
+- Hyejin Kim (Chungnam National University)
+- Suyoung Lee (Chungnam National University)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Research Problem
+
+## Research Novelty
+
+## Overview
+
+## Enviroment settings
