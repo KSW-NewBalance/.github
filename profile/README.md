@@ -43,7 +43,8 @@
 
 #### Activity Diagram
 
-<left><img src = "https://user-images.githubusercontent.com/62338783/215543342-5604a4c0-34fe-4adc-9f67-217c950b61bc.png" width = "800" >
+
+<left><img src = "https://cdn.discordapp.com/attachments/1064650243230154827/1069692356179271762/MonitoringRunningGait.drawio_1.png" width = "800" >
 
 ## Enviroment settings
   
