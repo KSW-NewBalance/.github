@@ -41,11 +41,22 @@
 
 ## Overview
 
-### Activity Diagram
-![Activity diagram image](https://user-images.githubusercontent.com/62338783/215543342-5604a4c0-34fe-4adc-9f67-217c950b61bc.png)
+#### Activity Diagram
 
+<left><img src = "https://user-images.githubusercontent.com/62338783/215543342-5604a4c0-34fe-4adc-9f67-217c950b61bc.png" width = "800" >
 
 ## Enviroment settings
+  
+  #### ThingsBoard
+ 
+    ✔️ OS: Ubuntu Desktop 21.10
+    
+    ✔️ ThingsBoard Version: thingsboard-3.4.3
+    
+    ✔️ Specific Settings:
+       - ThingsBoard Queue Service: In memory (built in, default)
+       - Dependency: openjdk-11-jdk, postgresql-12
+  
 ### Flutter
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Flutter-Dark.svg" width=30 /> 
 
