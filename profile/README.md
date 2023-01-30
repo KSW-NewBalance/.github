@@ -14,7 +14,7 @@
 |<img src="https://avatars.githubusercontent.com/u/81208791?v=4" width="150">|<img src="https://avatars.githubusercontent.com/u/52994616?v=4" width="150">|<img src="https://avatars.githubusercontent.com/u/50831854?v=4" width="185">|<img src="https://avatars.githubusercontent.com/u/62338783?v=4" width="150">|<img src ="https://avatars.githubusercontent.com/u/84793929?v=4" width="150">|
 </div>
 
-## Research Problem
+## 🔍 Research Problem
 - Running is one of the exercises with a low barrier to entry.
     
     Also, it can be carried out easily **without restrictions on time and place.**
@@ -24,7 +24,7 @@
 
 
 
-## Research Novelty
+## 👑 Research Novelty
 
 1. **Cost Effective**
     - Most of the previous research related to the Running Gait analysis was conducted **using Motion capture.**
@@ -40,6 +40,10 @@
 
 
 ## Overview
+
+### Activity Diagram
+![Activity diagram image](https://user-images.githubusercontent.com/62338783/215543342-5604a4c0-34fe-4adc-9f67-217c950b61bc.png)
+
 
 ## Enviroment settings
 ### Flutter
