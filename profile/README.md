@@ -7,7 +7,7 @@
 
 <div align="center">
   
-|[Jihyeon Yun](https://avatars.githubusercontent.com/u/81208791?v=4)|[Hojeong Eom](https://github.com/DobiIsFree)|[Minju Kim](https://github.com/mjkim1019)|[Hyejin Kim](https://github.com/WZNT-KimHyeJin)|[Suyoung Lee](https://github.com/vime-ux)|Nicole Hornbrook
+|[Jihyeon Yun](https://github.com/jhYun505)|[Hojeong Eom](https://github.com/DobiIsFree)|[Minju Kim](https://github.com/mjkim1019)|[Hyejin Kim](https://github.com/WZNT-KimHyeJin)|[Suyoung Lee](https://github.com/vime-ux)|Nicole Hornbrook
 |:----:|:----:|:----:|:----:|:----:|:----:|
 |Chungnam National Univ.|Chungnam National Univ.|Soongsil Univ.|Chungnam National Univ.|Chungnam National Univ.| Purdue Univ.
 |IoT|IoT|Mobile|Back-end|Back-end|Software|
