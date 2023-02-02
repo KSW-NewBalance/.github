@@ -72,8 +72,22 @@ Runners can choose to use the data to self-correct their running posture or util
        - ThingsBoard Queue Service: In memory (built in, default)
        - Dependency: openjdk-11-jdk, postgresql-12
   
-### Flutter
-<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Flutter-Dark.svg" width=30 /> 
+<div>
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Flutter-Dark.svg" width=20 align="center"/> 
+<b>Flutter</b> 
+</div>
+
+</br>
+
+```
+Flutter: 3.7.1
+Dart: 2.19.1
+DevTools: 2.20.1
+Xcode: 14.1
+Android Studio: 2022.1
+Android SDK: 33.0.0
+VS Code: 1.73.1
+```
 
 ### Docker
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Docker.svg" width=30 />
