@@ -18,7 +18,7 @@ We utilized IMU-6050 sensors and pressure sensor to measure angle of the foot an
 </div>
 
 ## Result of this Project
-![Group 16](https://user-images.githubusercontent.com/50831854/216420506-f7569220-8355-4af4-a86b-4119e5426d93.png)
+<img src="https://user-images.githubusercontent.com/50831854/216420506-f7569220-8355-4af4-a86b-4119e5426d93.png" width=70% align="center">
 
 ## Goal of NewBalance
  We're goal is to make the application that monitors the user's running gait. We will provide running imformation such as distance, average pace, and total like other existing running applications. But why we're project is special is that we will provide the measured foot angle and the first position to step on. After IMU sensors and pressure sensor measure the user's running, the data will send to the server. After that, the server processes and analyze these data. All these process is over, app visualizes these data to help the user keep monitoring your running gait.
