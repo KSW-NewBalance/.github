@@ -28,7 +28,7 @@ We utilized IMU-6050 sensors and pressure sensor to measure angle of the foot an
 2. Current lack of research on running gait monitoring & analysis
 3. The reoccuring rate of injury by running is high
 
-## Pervious Research Problem
+## Previous Research Problem
  From research, there were problems of high cost and restrictions on experimental environment. Most of the paper that analyzed running posture researched using the motion capture method. So they used a bunch of camera to monitor people's gait and treadmill for experimental tool.
  Additionally, there is little running gait monitoring application for actual user.
 
