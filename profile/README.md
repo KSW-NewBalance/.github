@@ -89,10 +89,3 @@ Android SDK: 33.0.0
 VS Code: 1.73.1
 ```
 
-### Docker
-<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Docker.svg" width=30 />
-
-<aside>
-✏️
-
-</aside>
