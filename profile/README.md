@@ -64,7 +64,7 @@ Runners can choose to use the data to self-correct their running posture or util
   
   #### ThingsBoard
  
-    ✔️ OS: Ubuntu Desktop 21.10
+    ✔️ OS: Ubuntu Desktop 20.04 LTS
     
     ✔️ ThingsBoard Version: thingsboard-3.4.3
     
