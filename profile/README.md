@@ -38,7 +38,7 @@ We utilized IMU-6050 sensors and a pressure sensor to measure the angle of the f
     - Sensors have similar accuracy to motion capture
     
 2. **Free from Environmental Constraints**
-    - Studies we've previously mentioned were limited to experiemental conditions indoors
+    - Studies we've previously mentioned were limited to experimental conditions indoors
     - In this study, all the experiments are conducted in an actual running environment
     
 3. **User-friendly**
