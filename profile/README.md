@@ -21,7 +21,7 @@ We utilized IMU-6050 sensors and a pressure sensor to measure the angle of the f
 <img src="https://user-images.githubusercontent.com/50831854/216420506-f7569220-8355-4af4-a86b-4119e5426d93.png" width=70% align="center">
 
 ## Goal of NewBalance
- Our goal is to make an application that monitors the user's running gait. We will provide running information such as distance, average pace, and total time of the run much like other existing running applications. Unlike other applications, however, we will provide the measured foot angle and the location of the first point of contact. After the IMU sensors and pressure sensor measure the user's run, the data will be sent to the server. After that, the server will processes and analyze the data. Once this process is over, the app will visualize this data to help the user monitor his/her running gait.
+ Our goal is to make an application that monitors the user's running gait. We will provide running information such as distance, average pace, and total time of the run, much like other existing running applications. Unlike other applications, however, we will provide the measured foot angle and the location of the first point of contact. After the IMU sensors and pressure sensor measure the user's run, the data will be sent to the server. After that, the server will processes and analyze the data. Once this process is over, the app will visualize this data to help the user monitor his/her running gait.
 
 ## Why we chose this topic
 1. Growth potential of IoT usage in healthcare is exponentially increasing
@@ -34,7 +34,7 @@ We utilized IMU-6050 sensors and a pressure sensor to measure the angle of the f
 ## Our Novelty
 
 1. **Cost Effective**
-    - Using sensors is cost more effective over using motion capture
+    - Using sensors is more cost effective over using motion capture
     - Sensors have similar accuracy to motion capture
     
 2. **Free from Environmental Constraints**
