@@ -10,7 +10,7 @@ We utilized IMU-6050 sensors and a pressure sensor to measure the angle of the f
 
 <div align="center">
   
-|[Jihyeon Yun](https://github.com/jhYun505)|[Hojeong Eom](https://github.com/DobiIsFree)|[Minju Kim](https://github.com/mjkim1019)|[Hyejin Kim](https://github.com/WZNT-KimHyeJin)|[Suyoung Lee](https://github.com/vime-ux)|Nicole Hornbrook
+|[Jihyeon Yun](https://github.com/jhYun505)|[Hojeong Eom](https://github.com/DobiIsFree)|[Minju Kim](https://github.com/mjkim1019)|[Hyejin Kim](https://github.com/WZNT-KimHyeJin)|[Suyoung Lee](https://github.com/vime-ux)|[Nicole Hornbrook](https://github.com/nicole-janae)
 |:----:|:----:|:----:|:----:|:----:|:----:|
 |Chungnam National Univ.|Chungnam National Univ.|Soongsil Univ.|Chungnam National Univ.|Chungnam National Univ.| Purdue Univ.
 |IoT|IoT|Mobile|Back-end|Back-end|Software|
