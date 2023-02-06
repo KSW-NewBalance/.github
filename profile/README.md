@@ -1,10 +1,10 @@
 # 👣 New Balance
 
 ## Project Title
-__*: IoT Device and Visualizing Application for Monitoring Running Gait*__
+__*: IoT Device and Visualizing Application for Monitoring the Running Gait*__
 
-Our project suggests mobile application that monitors running gait by using IoT.
-We utilized IMU-6050 sensors and pressure sensor to measure angle of the foot and identify strike type people have.
+Our project suggests a mobile application that monitors running gait using IoT.
+We utilized IMU-6050 sensors and a pressure sensor to measure the angle of the foot and identify different strike types.
 
 ## Group Members
 
@@ -21,40 +21,39 @@ We utilized IMU-6050 sensors and pressure sensor to measure angle of the foot an
 <img src="https://user-images.githubusercontent.com/50831854/216420506-f7569220-8355-4af4-a86b-4119e5426d93.png" width=70% align="center">
 
 ## Goal of NewBalance
- We're goal is to make the application that monitors the user's running gait. We will provide running imformation such as distance, average pace, and total like other existing running applications. But why we're project is special is that we will provide the measured foot angle and the first position to step on. After IMU sensors and pressure sensor measure the user's running, the data will send to the server. After that, the server processes and analyze these data. All these process is over, app visualizes these data to help the user keep monitoring your running gait.
+ Our goal is to make an application that monitors the user's running gait. We will provide running information such as distance, average pace, and total time of the run much like other existing running applications. Unlike other applications, however, we will provide the measured foot angle and the location of the first point of contact. After the IMU sensors and pressure sensor measure the user's run, the data will be sent to the server. After that, the server will processes and analyze the data. Once this process is over, the app will visualize this data to help the user monitor his/her running gait.
 
-## Why we choose this topic
-1. Potential of growth of IoT usage in healthcare is exponentially increasing
+## Why we chose this topic
+1. Growth potential of IoT usage in healthcare is exponentially increasing
 2. Current lack of research on running gait monitoring & analysis
-3. The reoccuring rate of injury by running is high
+3. The reoccuring rate of injury from running is high
 
 ## Previous Research Problem
- From research, there were problems of high cost and restrictions on experimental environment. Most of the paper that analyzed running posture researched using the motion capture method. So they used a bunch of camera to monitor people's gait and treadmill for experimental tool.
- Additionally, there is little running gait monitoring application for actual user.
+ Previous studies were costly and restricted to experimental environments only. Most existing related research used motion capture; meaning, they used many cameras and a treadmill to monitor their runners' gait. Additionally, there are hardly any running gait monitoring applications for real users.
 
 ## Our Novelty
 
 1. **Cost Effective**
-    - Using sensors is cost effective than using motion capture method
-    - Even it also have an similar accuracy as motion capture method 
+    - Using sensors is cost more effective over using motion capture
+    - Sensors have similar accuracy to motion capture
     
 2. **Free from Environmental Constraints**
-    - Studies we've mentioned had limitations in conducting experiments indoors
-    - In this study, all the experiments are conducted against the background of the actual running environment
+    - Studies we've previously mentioned were limited to experiemental conditions indoors
+    - In this study, all the experiments are conducted in an actual running environment
     
 3. **User-friendly**
-    - It can be used in practice
-    - We shows statistical data with visualization, so users can easily understand their personal data
+    - It can be used in sports training
+    - We clearly vizualize statistical data so users can easily understand their personal running information
 
 
 ## Expected Outcome
 1. **Provide personal Statistical Data**
 
-This application provides persoanl statistical data to user. Once the user finishes their run, he/she reports their emotional and physical state by responding to the question, 'How was your run?'.
+This application provides personal statistical data to the user. Once the user finishes their run, he/she reports their emotional and physical state by responding to the question, 'How was your run?'.
 
 2. **Help prevent running injuries**
 
-Runners can choose to use the data to self-correct their running posture or utilize it as reference material for a consultation with an expert (that could include a doctor, physical therapist, or sports trainer). So it could help prevent running injuries. 
+Runners can choose to use the data to self-correct their running posture or utilize it as reference material for a consultation with an expert (that could include a doctor, physical therapist, or sports trainer). So, this app could help prevent running injuries. 
 
 ## Activity Diagram
  
