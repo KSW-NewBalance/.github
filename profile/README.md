@@ -62,7 +62,7 @@ Runners can choose to use the data to self-correct their running posture or util
 
 ## System Flowchart
 
-<left><img src = "https://user-images.githubusercontent.com/50831854/216443390-dc15cccd-437e-44f5-a234-485c4e17671a.png" width = "800" >
+<left><img src = "https://user-images.githubusercontent.com/84793929/220672865-f103320e-877e-4163-83b9-9c2a57957db8.png" width = "800" >
 
 ## Enviroment settings
   
