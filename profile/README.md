@@ -59,6 +59,11 @@ Runners can choose to use the data to self-correct their running posture or util
  
 <left><img src = "https://user-images.githubusercontent.com/50831854/216443390-dc15cccd-437e-44f5-a234-485c4e17671a.png" width = "800" >
 
+
+## System Flowchart
+
+<left><img src = "https://user-images.githubusercontent.com/50831854/216443390-dc15cccd-437e-44f5-a234-485c4e17671a.png" width = "800" >
+
 ## Enviroment settings
   
   #### ThingsBoard
