@@ -18,6 +18,10 @@ We utilized IMU-6050 sensors and a pressure sensor to measure the angle of the f
 </div>
 
 ## Result of this Project
+### Device
+<img width="1169" alt="Final Prototypw" src="https://user-images.githubusercontent.com/81208791/221383046-f7cb41e9-c53b-458d-a767-4d06da0a29b1.png">
+
+### Application
 <img src="https://user-images.githubusercontent.com/50831854/216420506-f7569220-8355-4af4-a86b-4119e5426d93.png" width=70% align="center">
 
 ## Goal of NewBalance
