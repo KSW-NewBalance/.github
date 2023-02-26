@@ -71,7 +71,7 @@ Runners can choose to use the data to self-correct their running posture or util
 
 ## Enviroment settings
 
-  ### Google Cloud Platform
+  #### Google Cloud Platform
     ✔️ 4 vCPU
     ✔️ 4GB memory
     ✔️ 10GB distributed
@@ -103,3 +103,18 @@ Android SDK: 33.0.0
 VS Code: 1.73.1
 ```
 
+  #### ESP32
+    
+    Arduino IDE 2.0.3
+    |_ ArduinoJson (Version 6.20.1)
+    |_Adafruit BusIO (Version 1.14.0)
+    |_ Adafruit GFX Library (Version 1.11.4)
+    |_ Adafruit MPU6050 (Version 2.2.3)
+    |_ Adafruit SSD1306 (Version 2.5.6)
+    |_ Adafruit Unified Sensor (Version 1.1.6)
+    |_ ThingsBoard (Version 0.9.4)
+    |_ PubSubClient (Version 2.8.0)
+    |_ ArduinoHttpClient (Version 0.3.2)
+    |_ ArduinoJson (Version 6.20.1)
+    |_ DHT sensor library for ESPx (Version 1.18.0)
+  
