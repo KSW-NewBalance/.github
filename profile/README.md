@@ -13,7 +13,7 @@ We utilized MPU-6050 sensors and a Force Sensitive Resistor(FSR) to measure the 
 |[Jihyeon Yun](https://github.com/jhYun505)|[Hojeong Eom](https://github.com/DobiIsFree)|[Minju Kim](https://github.com/mjkim1019)|[Hyejin Kim](https://github.com/WZNT-KimHyeJin)|[Suyoung Lee](https://github.com/vime-ux)|[Nicole Hornbrook](https://github.com/nicole-janae)
 |:----:|:----:|:----:|:----:|:----:|:----:|
 |Chungnam National Univ.|Chungnam National Univ.|Soongsil Univ.|Chungnam National Univ.|Chungnam National Univ.| Purdue Univ.
-|IoT|IoT|Mobile|Back-end|Back-end|Software|
+|IoT Device|IoT Device|Application|IoT Cloud|IoT Cloud|Application|
 |<img src="https://avatars.githubusercontent.com/u/81208791?v=4" width="150">|<img src="https://avatars.githubusercontent.com/u/52994616?v=4" width="150">|<img src="https://avatars.githubusercontent.com/u/50831854?v=4" width="185">|<img src="https://avatars.githubusercontent.com/u/62338783?v=4" width="150">|<img src ="https://avatars.githubusercontent.com/u/84793929?v=4" width="150">|
 </div>
 
