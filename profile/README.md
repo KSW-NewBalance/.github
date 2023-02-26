@@ -21,8 +21,9 @@ We utilized MPU-6050 sensors and a Force Sensitive Resistor(FSR) to measure the 
 ### Device
 <img width="1169" alt="Final Prototypw" src="https://user-images.githubusercontent.com/81208791/221383046-f7cb41e9-c53b-458d-a767-4d06da0a29b1.png">
 
+
 ### Application
-<img src="https://user-images.githubusercontent.com/50831854/216420506-f7569220-8355-4af4-a86b-4119e5426d93.png" width=70% align="center">
+<img src="https://user-images.githubusercontent.com/50831854/221393040-60e41dd5-df10-4ba8-b963-64c4f606f700.png" width=70% align="center">
 
 ### Thingsboard
 ![image](https://user-images.githubusercontent.com/62338783/221370156-04757841-757f-4d93-8c07-16131022bb22.png)
@@ -90,12 +91,7 @@ Runners can choose to use the data to self-correct their running posture or util
        - ThingsBoard Queue Service: In memory (built in, default)
        - Dependency: openjdk-11-jdk, postgresql-12
   
-<div>
-<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Flutter-Dark.svg" width=20 align="center"/> 
-<b>Flutter</b> 
-</div>
-
-</br>
+  #### Flutter
 
 ```
 Flutter: 3.7.1
