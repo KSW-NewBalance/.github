@@ -4,7 +4,7 @@
 __*: IoT Device and Visualizing Application for Monitoring the Running Gait*__
 
 Our project suggests a mobile application that monitors running gait using IoT.
-We utilized IMU-6050 sensors and a pressure sensor to measure the angle of the foot and identify different strike types.
+We utilized MPU-6050 sensors and a Force Sensitive Resistor(FSR) to measure the angle of the foot and identify different strike types.
 
 ## Group Members
 
@@ -25,7 +25,7 @@ We utilized IMU-6050 sensors and a pressure sensor to measure the angle of the f
 <img src="https://user-images.githubusercontent.com/50831854/216420506-f7569220-8355-4af4-a86b-4119e5426d93.png" width=70% align="center">
 
 ## Goal of NewBalance
- Our goal is to make an application that monitors the user's running gait. We will provide running information such as distance, average pace, and total time of the run, much like other existing running applications. Unlike other applications, however, we will provide the measured foot angle and the location of the first point of contact. After the IMU sensors and pressure sensor measure the user's run, the data will be sent to the server. After that, the server will processes and analyze the data. Once this process is over, the app will visualize this data to help the user monitor his/her running gait.
+ Our goal is to make an application that monitors the user's running gait. We will provide running information such as distance, average pace, and total time of the run, much like other existing running applications. Unlike other applications, however, we will provide the measured foot angle and the location of the first point of contact. After the IMU sensors and FSR sensor measure the user's run, the data will be sent to the server. After that, the server will processes and analyze the data. Once this process is over, the app will visualize this data to help the user monitor his/her running gait.
 
 ## Why we chose this topic
 1. Growth potential of IoT usage in healthcare is exponentially increasing
@@ -47,6 +47,7 @@ We utilized IMU-6050 sensors and a pressure sensor to measure the angle of the f
     
 3. **User-friendly**
     - It can be used in sports training
+    - Easy to use(Similar to other existing running application)
     - We clearly vizualize statistical data so users can easily understand their personal running information
 
 
@@ -57,7 +58,7 @@ This application provides personal statistical data to the user. Once the user f
 
 2. **Help prevent running injuries**
 
-Runners can choose to use the data to self-correct their running posture or utilize it as reference material for a consultation with an expert (that could include a doctor, physical therapist, or sports trainer). So, this app could help prevent running injuries. 
+Runners can choose to use the data to self-correct their running posture or utilize it as reference material for a consultation with an medical expert (that could include a doctor, physical therapist, or sports trainer). So, this app could help prevent running injuries. 
 
 ## Activity Diagram
  
