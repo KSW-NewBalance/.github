@@ -71,7 +71,7 @@ Runners can choose to use the data to self-correct their running posture or util
 
 ## System Flowchart
 
-<left><img src = "https://user-images.githubusercontent.com/84793929/220672865-f103320e-877e-4163-83b9-9c2a57957db8.png" width = "800" >
+<left><img src = "https://user-images.githubusercontent.com/84793929/220672865-f103320e-877e-4163-83b9-9c2a57957db8.png" width = "300" >
 
 ## Enviroment settings
 
@@ -111,7 +111,7 @@ VS Code: 1.73.1
     
     Arduino IDE 2.0.3
     |_ ArduinoJson (Version 6.20.1)
-    |_Adafruit BusIO (Version 1.14.0)
+    |_ Adafruit BusIO (Version 1.14.0)
     |_ Adafruit GFX Library (Version 1.11.4)
     |_ Adafruit MPU6050 (Version 2.2.3)
     |_ Adafruit SSD1306 (Version 2.5.6)
