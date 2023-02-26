@@ -24,6 +24,10 @@ We utilized MPU-6050 sensors and a Force Sensitive Resistor(FSR) to measure the 
 ### Application
 <img src="https://user-images.githubusercontent.com/50831854/216420506-f7569220-8355-4af4-a86b-4119e5426d93.png" width=70% align="center">
 
+### Thingsboard
+![image](https://user-images.githubusercontent.com/62338783/221370156-04757841-757f-4d93-8c07-16131022bb22.png)
+[More details about Thingsboard](https://github.com/KSW-NewBalance/NewBalance-Thingsboard)
+
 ## Goal of NewBalance
  Our goal is to make an application that monitors the user's running gait. We will provide running information such as distance, average pace, and total time of the run, much like other existing running applications. Unlike other applications, however, we will provide the measured foot angle and the location of the first point of contact. After the IMU sensors and FSR sensor measure the user's run, the data will be sent to the server. After that, the server will processes and analyze the data. Once this process is over, the app will visualize this data to help the user monitor his/her running gait.
 
