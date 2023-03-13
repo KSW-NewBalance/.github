@@ -23,7 +23,7 @@ We utilized MPU-6050 sensors and a Force Sensitive Resistor(FSR) to measure the 
 
 
 ### Application
-<img src="https://user-images.githubusercontent.com/50831854/221393040-60e41dd5-df10-4ba8-b963-64c4f606f700.png" width=70% align="center">
+<img src="https://user-images.githubusercontent.com/50831854/224781554-9cef99d6-81e5-425b-a6fe-8fce65d5f2d6.png" width=60% align="center">
 
 ### Thingsboard
 ![image](https://user-images.githubusercontent.com/62338783/221370156-04757841-757f-4d93-8c07-16131022bb22.png)
